@@ -16,7 +16,7 @@ calcBtn.addEventListener("click" , (e)=>{
      }else{
          if (selection.value === "house-loan") {
            interest = 0.89 ;
-         } else if (selection.value === "consumer.loan") {
+         } else if (selection.value === "consumer-loan") {
            interest = 1.19;
          } else if (selection.value === "auto-loan") {
            interest = 1.09;
